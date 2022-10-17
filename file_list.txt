@@ -1,0 +1,4 @@
+total 5.0K
+-rw-r--r-- 1 kkkk2 197609 684 Oct 11 02:03 202031306_권서현_lecture_note_6.md
+-rw-r--r-- 1 kkkk2 197609   0 Oct 18 02:42 file_list.txt
+-rw-r--r-- 1 kkkk2 197609 274 Sep  5 18:41 lab3-2.ino
